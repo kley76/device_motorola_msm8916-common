@@ -89,7 +89,6 @@ PRODUCT_PACKAGES += \
     camera.device@1.0-impl \
     libc_util \
     libshims_camera \
-    libshims_sensorlistener \
     Camera2 \
     Snap
 
